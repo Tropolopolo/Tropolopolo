@@ -4,9 +4,9 @@
 - I’m looking to collaborate on smaller projects that don't take a lot of time away from school and work since I am already stretched for time.
 - How to reach me: Email - *Currently Figuring out the best Method that works for me* 
 <!---add your username and where you got my email from (Add 'saw you on github' or something). 
---->
-- * if I don't respond I am either too busy to be of any help, or I am not interested.
 
+- * if I don't respond I am either too busy to be of any help, or I am not interested.
+--->
 <!---
 Tropolopolo/Tropolopolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
